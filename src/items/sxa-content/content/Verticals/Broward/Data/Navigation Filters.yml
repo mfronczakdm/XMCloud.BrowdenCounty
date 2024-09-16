@@ -1,0 +1,20 @@
+﻿---
+ID: "6af798c2-7a54-4f1f-b88f-7cf6ec05fc6e"
+Parent: "34539694-4509-4452-9006-9d8c1c33461f"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: /sitecore/content/Verticals/Broward/Data/Navigation Filters
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c18b668f-d6fb-4140-b243-9c11de4d5340"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f6e73f1b-9ed7-4a35-9c46-1056f912e0c5"

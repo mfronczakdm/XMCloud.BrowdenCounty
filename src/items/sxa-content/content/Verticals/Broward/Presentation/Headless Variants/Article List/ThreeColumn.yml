@@ -1,0 +1,20 @@
+﻿---
+ID: "d7814722-2a2c-4cad-a587-1fb144867d5e"
+Parent: "cf924c98-8022-411f-aa6f-bd982856d53e"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Verticals/Broward/Presentation/Headless Variants/Article List/ThreeColumn
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3e750b5a-7516-4284-b233-1121221bf99c"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ce852bb-7441-4bcc-9a20-4c91bf15f9ca"

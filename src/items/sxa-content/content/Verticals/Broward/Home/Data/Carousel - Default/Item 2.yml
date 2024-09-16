@@ -1,0 +1,48 @@
+﻿---
+ID: "392177c6-16c6-4679-826a-4e31b16c1e20"
+Parent: "14ceea7a-795e-4ab4-9791-760806533f3f"
+Template: "54db209d-cd0f-49d9-ae4e-ecb65d72cc4d"
+Path: "/sitecore/content/Verticals/Broward/Home/Data/Carousel - Default/Item 2"
+SharedFields:
+- ID: "ba78a3c0-7c60-40ba-8d42-6bf559d9ca72"
+  Hint: Image
+  Value: |
+    <image mediaid="{311E4AD1-7C16-475B-9BDA-68406372D227}" alt="Woman sitting on a rock outcrop and looking at the landscape" height="" width="" hspace="" vspace="" />
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{321B71A6-169C-4A12-905A-0BF5F5CCD7E3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Grow your wealth with confidence
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" id="{EC37F75A-597B-4F83-B44B-909165A383E8}" querystring="" anchor="" target="" title="" linktype="internal" text="Get started online" url="/Verticals/Broward/Home/Find A Service/investing" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "85eb1def-4fc2-4671-b58e-d9d1783c0704"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Wealth management made simple.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Faites croître votre patrimoine en toute confiance
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" id="{EC37F75A-597B-4F83-B44B-909165A383E8}" querystring="" anchor="" target="" title="" linktype="internal" text="Commencez en ligne" url="/Verticals/Broward/Home/Find A Service/investing" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71029d4c-99be-439d-b119-1243891e8905"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Gestion de patrimoine simplifiée.</p>

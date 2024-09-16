@@ -1,0 +1,20 @@
+﻿---
+ID: "0435effa-c573-4a35-b54b-2b99aadee17d"
+Parent: "b8ee65f5-bd29-4848-b571-d9410a0ad122"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/Broward/Home/articles/beware-of-financial-online-scams/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70875364-346d-4879-b807-84e617f6cdc1"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cb1beeb7-f135-479e-ba59-4eea42f97a6d"

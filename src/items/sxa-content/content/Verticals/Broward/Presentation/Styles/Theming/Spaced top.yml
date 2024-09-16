@@ -1,0 +1,27 @@
+﻿---
+ID: "497c9d77-75a0-4a13-8be4-461c46045284"
+Parent: "5b969451-d537-4586-8d37-1ae53595e08e"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Verticals/Broward/Presentation/Styles/Theming/Spaced top
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "spaced-top"
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Value: "{1F52FB4E-FB4B-40ED-A5D8-F8F9784B36F2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b73b908c-750a-498f-bcdb-21336bd9b701"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e6f22d73-0892-4388-a5b1-989dabe22bf6"

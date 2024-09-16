@@ -1,0 +1,20 @@
+﻿---
+ID: "cf534913-6504-4c91-a6df-6a6137d7050d"
+Parent: "d9962a88-bf72-4968-8507-2880f203159a"
+Template: "267d9ac7-5d85-4e9d-af89-99ab296cc218"
+Path: /sitecore/content/Verticals/Broward/67fb2d1ba8904c6db909ce32372e256e/Financial
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b1e772a2-9e70-4dcc-8470-b9fd2123c6af"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b2c3c982-4ab4-4152-8469-97fe49555e4e"

@@ -1,0 +1,20 @@
+﻿---
+ID: "10533da1-d9ce-4dd6-90a3-0a4dcf6bb001"
+Parent: "0871ad0c-139f-4c01-b3ec-7bb8bcd6aaa3"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/Broward/Home/articles/empowering-young-adults/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1e13c982-549c-45c9-ad54-c8314555da71"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "567fa835-994f-440e-9df0-84a1cc9e0da2"

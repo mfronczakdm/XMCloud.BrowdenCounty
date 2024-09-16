@@ -1,0 +1,20 @@
+﻿---
+ID: "8498e2bf-a510-4289-a1cc-a643ddab7a5c"
+Parent: "787e5457-3f4c-4d1c-84e2-162d8e2a79d0"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/Broward/Home/customer-support/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e1ec796-1a5f-4ddc-8e75-6365b4bcb657"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac113221-c86c-4832-b031-e36389e31c7e"

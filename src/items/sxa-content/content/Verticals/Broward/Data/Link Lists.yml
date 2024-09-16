@@ -1,0 +1,20 @@
+﻿---
+ID: "87e701b3-3f71-4948-82cc-57c166e2ae7f"
+Parent: "34539694-4509-4452-9006-9d8c1c33461f"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: /sitecore/content/Verticals/Broward/Data/Link Lists
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dfcacd44-52ac-403e-9416-03aaff7a2006"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4c47e8a6-6788-4a08-b1bf-9bae21edbbdb"

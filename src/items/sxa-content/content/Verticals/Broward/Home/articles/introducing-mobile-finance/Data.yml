@@ -1,0 +1,20 @@
+﻿---
+ID: "45b1318b-1b72-4460-8688-bbb8f655c719"
+Parent: "3e4f673d-3447-4181-a426-4532a5dcd92b"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/Broward/Home/articles/introducing-mobile-finance/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6cbbaa1d-0d6a-41b5-9b3f-ffe198f5f949"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8a28d097-1b08-4781-81f4-3b97de965b93"

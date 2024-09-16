@@ -1,0 +1,61 @@
+﻿---
+ID: "7e2d6afe-9a47-4012-b475-cf169397635d"
+Parent: "d855580e-7e12-4c0a-b0a0-a5fbf6a2414d"
+Template: "aad350f5-9331-4d71-a942-e3643653c028"
+Path: /sitecore/content/Verticals/Broward/Home/authors/Patricia Ball
+SharedFields:
+- ID: "2404bb97-b42a-439a-be76-de66213cb281"
+  Hint: BackgroundImage
+  Value: |
+    <image mediaid="{9E582830-0E92-4AA2-9C1B-DB0EABD0A0A3}" alt="Author Paper" height="" width="" hspace="" vspace="" />
+- ID: "6be59cd8-74bd-4c67-b611-e81e140679b4"
+  Hint: Photo
+  Value: |
+    <image mediaid="{60C357CF-BB49-44F8-B91B-C11B7CA9CF00}" alt="Patricia Bio Image" height="" width="" hspace="" vspace="" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{E9B6C600-C6E8-4867-BCB7-8B0DC5F19840}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{171CCFD4-8543-428E-9A9B-8E6557E63B6D}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Patricia Ball
+    - ID: "524c9c82-80d5-4d65-b7e3-4dd0e365b762"
+      Hint: Position
+      Value: Digital marketer
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac4d1a7e-5a7b-43a5-a913-32c1090f7e19"
+    - ID: "97b19c3f-9341-48ac-be54-22e1caaa1d48"
+      Hint: Bio
+      Value: |
+        <div class="ck-content"><p>Patricia is a seasoned digital marketer with a passion for driving results through innovative digital strategies. With a background in digital advertising, social media management, and content marketing, she excels at creating compelling campaigns that engage audiences and drive conversions.</p></div>
+    - ID: "996749ca-6a47-463d-a759-7db65676f179"
+      Hint: Name
+      Value: Patricia Ball
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "524c9c82-80d5-4d65-b7e3-4dd0e365b762"
+      Hint: Position
+      Value: Responsable marketing digital
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5c20f273-4451-479a-8ff7-456039b20eff"
+    - ID: "97b19c3f-9341-48ac-be54-22e1caaa1d48"
+      Hint: Bio
+      Value: |
+        <div class="ck-content"><p>Patricia est une spécialiste expérimentée en marketing digital, passionnée par l'obtention de résultats grâce à des stratégies numériques innovantes. Avec une expérience en publicité numérique, en gestion des réseaux sociaux et en marketing de contenu, elle excelle dans la création de campagnes captivantes qui engagent les audiences et génèrent des conversions.</p></div>
+    - ID: "996749ca-6a47-463d-a759-7db65676f179"
+      Hint: Name
+      Value: Patricia Ball

@@ -1,0 +1,24 @@
+﻿---
+ID: "f4fd3c53-5be6-4f1b-8867-15f715cfb26c"
+Parent: "8b919f8f-a98f-44e9-b56a-29badb83561b"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/content/Verticals/Broward/Presentation/Placeholder Settings/Partial Design/Author Content
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-author-content"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f3859c2-76ac-4b96-8ab0-9aa17a3b62d5"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ffd83ed2-e428-4bde-b35e-b298984f4965"

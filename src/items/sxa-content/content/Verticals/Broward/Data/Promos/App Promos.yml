@@ -1,0 +1,20 @@
+﻿---
+ID: "ed9b75a2-b508-4c2c-bb46-b9b05814b792"
+Parent: "c16818f0-2207-4e3c-9837-3719f949e85d"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/Verticals/Broward/Data/Promos/App Promos
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3a22f34b-337b-4a48-bead-58ae53ce23d6"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dcbde4d5-507a-4045-8da6-e8930ef7f40e"

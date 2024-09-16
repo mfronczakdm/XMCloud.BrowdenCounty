@@ -1,0 +1,20 @@
+﻿---
+ID: "837ba44c-df56-43d5-96ed-7dd5074138eb"
+Parent: "646bad18-0dc5-4442-81bc-6ee283f8727d"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/Broward/Home/Records and Taxes/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "acf25057-be71-4469-9fb7-213b289b2140"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8a785807-0454-42ae-a960-115238a4c15e"

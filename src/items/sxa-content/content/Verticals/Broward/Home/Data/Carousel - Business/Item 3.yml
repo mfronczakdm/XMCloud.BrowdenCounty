@@ -1,0 +1,45 @@
+﻿---
+ID: "054bc1bf-5e1b-45a6-a108-abc796f0a885"
+Parent: "94017a05-01b5-4c72-9189-ede17a384105"
+Template: "54db209d-cd0f-49d9-ae4e-ecb65d72cc4d"
+Path: "/sitecore/content/Verticals/Broward/Home/Data/Carousel - Business/Item 3"
+SharedFields:
+- ID: "ba78a3c0-7c60-40ba-8d42-6bf559d9ca72"
+  Hint: Image
+  Value: |
+    <image mediaid="{441F300B-A3CE-4E29-9772-A72A1D268359}" alt="Man sitting at table with coffee" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Effective employee management
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" id="{60FCFD3E-3BFA-410F-AF2D-7F4EA053FC2B}" querystring="" anchor="" target="" title="" linktype="internal" text="Learn more" url="/Verticals/Broward/Home/Records and Taxes/employee-management" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e3870c5a-ecfa-4149-b07b-50c8f339b174"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Supercharge your workforce with our comprehensive employee management strategies.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Gestion efficace des employés
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" id="{60FCFD3E-3BFA-410F-AF2D-7F4EA053FC2B}" querystring="" anchor="" target="" title="" linktype="internal" text="En savoir plus" url="/Verticals/Broward/Home/Records and Taxes/employee-management" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d2a781ae-6a9c-446e-90e1-4edaf9683d3d"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Boostez votre effectif avec nos stratégies complètes de gestion des employés.</p>

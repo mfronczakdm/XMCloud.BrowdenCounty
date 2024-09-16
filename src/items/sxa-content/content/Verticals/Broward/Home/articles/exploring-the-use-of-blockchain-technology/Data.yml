@@ -1,0 +1,20 @@
+﻿---
+ID: "a0f2ffa9-d8c9-422b-ae6a-38f09f96a890"
+Parent: "32f67d2f-eb07-4875-bb50-6beffd10ad9d"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/Broward/Home/articles/exploring-the-use-of-blockchain-technology/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bb6eff71-7a03-48a5-a23f-56eb157b9a63"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c01178a-830d-455f-a7a0-c7d2b368aea0"

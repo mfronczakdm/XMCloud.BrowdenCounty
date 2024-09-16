@@ -1,0 +1,13 @@
+﻿---
+ID: "98bfa7b4-4678-4988-b206-5ad2360b5b7a"
+Parent: "e92516ad-d063-433c-a186-530930be5852"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/Broward/About us
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "03133a63-3ace-4396-a5f5-bccdb68a2d79"

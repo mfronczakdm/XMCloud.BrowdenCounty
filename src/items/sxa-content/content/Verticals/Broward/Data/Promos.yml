@@ -1,0 +1,20 @@
+﻿---
+ID: "c16818f0-2207-4e3c-9837-3719f949e85d"
+Parent: "34539694-4509-4452-9006-9d8c1c33461f"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/Verticals/Broward/Data/Promos
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e0dd0be2-b320-4904-acfc-f05d16411b5e"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "491cdebd-157d-412d-8c5f-0208065677e5"

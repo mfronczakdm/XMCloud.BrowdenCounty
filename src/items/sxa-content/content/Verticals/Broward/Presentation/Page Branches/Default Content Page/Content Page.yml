@@ -1,0 +1,24 @@
+﻿---
+ID: "f8842f7f-9bfc-4496-80ec-b4db0c4875ba"
+Parent: "6c077447-d3b8-4f6f-bec8-8323f448ebd3"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/content/Verticals/Broward/Presentation/Page Branches/Default Content Page/Content Page
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/32x32/logviewer.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e25481ad-e8c4-4ec9-98c6-dc64bd790aef"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ca065b6-32b6-4b96-9085-5f6b874af185"

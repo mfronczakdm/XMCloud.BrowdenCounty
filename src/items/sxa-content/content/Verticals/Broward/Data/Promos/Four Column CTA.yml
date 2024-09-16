@@ -1,0 +1,20 @@
+﻿---
+ID: "f9f2ecfd-39d5-450a-b70c-5bb073a477aa"
+Parent: "c16818f0-2207-4e3c-9837-3719f949e85d"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/Verticals/Broward/Data/Promos/Four Column CTA
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e2cecdb2-cbee-4aa5-a1b5-b044cebd3f9e"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1ad6111-38d5-4d8e-8fa0-f95df3fb9ad7"

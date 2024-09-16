@@ -1,0 +1,28 @@
+﻿---
+ID: "94017a05-01b5-4c72-9189-ede17a384105"
+Parent: "02ae2e24-a46f-43b8-8cdf-2fd308ea5b3f"
+Template: "c7b8468f-4290-400f-93bb-d46c5f8db126"
+Path: "/sitecore/content/Verticals/Broward/Home/Data/Carousel - Business"
+BranchID: "ce40209e-3961-4d15-871f-d959ef53797e"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{CE777CFB-34F8-4D8B-8623-F9D696202E1F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "44f419f7-45f3-430f-9e44-b9bf55fa23cf"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c3892ef4-1a67-446e-98c5-a2729246b2e7"

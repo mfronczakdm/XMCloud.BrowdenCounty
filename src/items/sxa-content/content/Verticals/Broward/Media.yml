@@ -1,0 +1,30 @@
+﻿---
+ID: "b0186bc1-9b02-43d4-be08-c90c1d8b09f5"
+Parent: "ea830aaa-3136-4368-a37f-b4925165caa0"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: /sitecore/content/Verticals/Broward/Media
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+  Hint: AdditionalChildren
+  Value: |
+    {E92516AD-D063-433C-A186-530930BE5852}
+    {0471133E-2103-481B-BE54-16612D58B5C2}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A7F39EA2-9018-4622-891D-CB65627E5AF2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8437ec91-170f-49e1-a4ee-325d2c9ee73e"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aeda86b3-dc34-4b15-b019-be0807157b73"

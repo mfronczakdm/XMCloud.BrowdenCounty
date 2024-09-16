@@ -1,0 +1,40 @@
+﻿---
+ID: "6cac18e1-7897-4fc9-b22d-69ab7bd2e86f"
+Parent: "958dbb47-e88c-44b8-bec6-0c05b924f3ce"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Verticals/Broward/Home/Records and Taxes/international-banking/Data/Promo CTA 1"
+SharedFields:
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="{A2DF0A9B-F742-4D6A-B565-6168246B8E87}" alt="Lock and credit cards on a keyboard" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Connecting you to worldwide opportunities
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d90e1387-e9df-490d-91da-b651786e5a0a"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>Unlock the power of global finance with our suite of international banking services, designed to meet your global ambitions.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Vous connecter à des opportunités mondiales
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb57dc65-8595-4431-9d1a-4018e8bffee5"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>Débloquez le pouvoir de la finance mondiale avec notre gamme de services bancaires internationaux, conçus pour répondre à vos ambitions mondiales.</p>

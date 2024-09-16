@@ -1,0 +1,20 @@
+﻿---
+ID: "13c52a33-dfb6-4cb4-bfb1-050ea9daa848"
+Parent: "f7dc5f4d-113b-415e-bf97-810ca90bb51b"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/Broward/Home/articles/introducing-innovative-financial-solutions/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e5cf5fa-352e-4791-b545-f3150cc176c5"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "230a6dbd-d706-4dec-84ee-45de60bffb62"

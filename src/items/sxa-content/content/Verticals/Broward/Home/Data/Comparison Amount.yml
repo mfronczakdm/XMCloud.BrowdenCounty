@@ -1,0 +1,54 @@
+﻿---
+ID: "305d1456-57d6-4d05-ac02-eb35cc5930d7"
+Parent: "02ae2e24-a46f-43b8-8cdf-2fd308ea5b3f"
+Template: "32f00428-21ac-4dc0-aa2b-f2e31ca3e97e"
+Path: /sitecore/content/Verticals/Broward/Home/Data/Comparison Amount
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1700
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "139b10e3-2363-40f9-8351-59a724c1a135"
+      Hint: Amount1
+      Value: 1000
+    - ID: "22ea3b6c-7d16-47dc-b1d7-9e6686c6bd9b"
+      Hint: Amount2
+      Value: 80000
+    - ID: "55199a29-334d-41c9-b133-7163c9e82a7c"
+      Hint: Currency2
+      Value: eur
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50555ab6-a3a9-430c-8262-08dcdd054304"
+    - ID: "ef3b1e0a-490d-4340-8ebc-5612d6be5e74"
+      Hint: Currency1
+      Value: eur
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "139b10e3-2363-40f9-8351-59a724c1a135"
+      Hint: Amount1
+      Value: 1000
+    - ID: "22ea3b6c-7d16-47dc-b1d7-9e6686c6bd9b"
+      Hint: Amount2
+      Value: 80000
+    - ID: "55199a29-334d-41c9-b133-7163c9e82a7c"
+      Hint: Currency2
+      Value: eur
+    - ID: "811c52c9-9a0d-4c2b-88c5-817193be5c7d"
+      Hint: Title1
+      Value: Montant
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6e22577b-ad8c-4014-9da1-feeb2c7db3c0"
+    - ID: "ef3b1e0a-490d-4340-8ebc-5612d6be5e74"
+      Hint: Currency1
+      Value: eur

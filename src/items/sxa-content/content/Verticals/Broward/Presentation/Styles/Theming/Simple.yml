@@ -1,0 +1,27 @@
+﻿---
+ID: "bcf03c29-b2b9-4b7c-883c-3e90198f1b0f"
+Parent: "5b969451-d537-4586-8d37-1ae53595e08e"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Verticals/Broward/Presentation/Styles/Theming/Simple
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: simple
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Value: "{20E5EA95-6B50-49CD-8852-433B7C565F06}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c4d09d3-09ca-4683-b663-c6b1a7b84c28"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e74dcae4-14d4-4b75-ba1e-d1cb3f1052b1"

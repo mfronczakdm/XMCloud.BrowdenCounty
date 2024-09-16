@@ -1,0 +1,20 @@
+﻿---
+ID: "2b53425e-620d-4a4c-a77e-4e3d15d74fc8"
+Parent: "e4c558fa-53ad-495e-bbd3-03c6b477b373"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/Broward/Home/articles/five-tips-for-new-retirees/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a988eb46-cc46-40b5-aca3-7373e33c7904"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f625de0f-d4d8-4662-bc69-05aa8ad08db3"

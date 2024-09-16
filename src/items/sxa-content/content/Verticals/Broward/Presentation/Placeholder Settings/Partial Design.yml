@@ -1,0 +1,20 @@
+﻿---
+ID: "8b919f8f-a98f-44e9-b56a-29badb83561b"
+Parent: "afdab444-81d7-4593-9e2b-2805aaf3e7a7"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: /sitecore/content/Verticals/Broward/Presentation/Placeholder Settings/Partial Design
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a336e7c9-b862-4f20-932b-a9e06bd66258"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c190dd23-ba4b-4154-a4a7-3389c598315e"

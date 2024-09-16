@@ -1,0 +1,25 @@
+﻿---
+ID: "958dbb47-e88c-44b8-bec6-0c05b924f3ce"
+Parent: "b6a4ea09-128e-42bb-91df-b90845315962"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/Broward/Home/Records and Taxes/international-banking/Data"
+BranchID: "e6952b59-41b9-4f19-a6a8-e995ea78df57"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{BDF61BDE-D0BE-478F-9502-1A18731ECA2C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "43bd1776-41c3-4223-a51f-f65ed3ffc43d"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff44dbac-f04f-434d-a7f4-3f192f4713c4"

@@ -1,0 +1,20 @@
+﻿---
+ID: "538bb5ab-0038-4843-a792-499db5309410"
+Parent: "629a6180-6b28-4aee-9134-fb070e06de72"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/Broward/Presentation/Page Branches/Retirement Content Page/Content Page/$name/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d6e893fe-1d4f-453b-a1d9-bffb28c965ec"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f548452-7d04-47a8-be73-0bea72237110"

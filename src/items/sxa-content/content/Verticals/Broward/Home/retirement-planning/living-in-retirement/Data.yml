@@ -1,0 +1,25 @@
+﻿---
+ID: "2d89d2e6-ab82-46f6-b060-42bde55c5eef"
+Parent: "6a50250d-dd81-4b2a-94a5-168a49fa3e65"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/Broward/Home/retirement-planning/living-in-retirement/Data"
+BranchID: "f4216084-ae14-4cbb-adf1-22292083f63c"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{538BB5AB-0038-4843-A792-499DB5309410}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "117e5694-c769-4a43-b13f-aa9030da539f"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9ccb09cd-8f08-4d19-b192-ca52cc35fef1"

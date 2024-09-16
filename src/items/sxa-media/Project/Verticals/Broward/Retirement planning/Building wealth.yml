@@ -1,0 +1,17 @@
+﻿---
+ID: "dadbb0e5-0f97-4a59-81a2-d829f36b71e6"
+Parent: "4b81bdbe-891b-409f-bb9b-135903ef85a1"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/Broward/Retirement planning/Building wealth
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b77480ac-4eeb-453a-8cda-15152bdb667b"

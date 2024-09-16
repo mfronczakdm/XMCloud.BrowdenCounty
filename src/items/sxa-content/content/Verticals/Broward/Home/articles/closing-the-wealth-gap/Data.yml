@@ -1,0 +1,20 @@
+﻿---
+ID: "8896df7c-20ae-41ec-8c8f-4c592a4638a7"
+Parent: "db347570-d267-4747-9a28-a73cecc79d3e"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/Broward/Home/articles/closing-the-wealth-gap/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "928a5a45-1978-4d2b-813c-c7ad4623dd8b"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a00873a7-7e19-4221-94f4-f7654ba4f0e1"

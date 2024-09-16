@@ -1,0 +1,20 @@
+﻿---
+ID: "f2a34a1a-05e7-48d5-9b07-27c18b78e7a6"
+Parent: "34539694-4509-4452-9006-9d8c1c33461f"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: /sitecore/content/Verticals/Broward/Data/Tags
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "792ae581-47d8-4b59-8f44-8bd6afff3a41"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2c72a964-9cd6-4c2d-8c61-99da95511fe1"

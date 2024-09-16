@@ -1,0 +1,20 @@
+﻿---
+ID: "3168ea22-a15f-4fbe-9794-8d6958e1f571"
+Parent: "bc6ced61-3d94-4d67-8a1f-77c30bb820f6"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/Broward/Home/articles/important-announcement-play-finance-client/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e2508f3-bc8a-476b-936c-836fca18d78b"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e011df2c-2d66-4a2f-80fb-129002aa166e"

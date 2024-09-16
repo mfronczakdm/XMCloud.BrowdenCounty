@@ -1,0 +1,20 @@
+﻿---
+ID: "8c70c15b-f3d4-452e-8c8a-4cd381cda02d"
+Parent: "cf924c98-8022-411f-aa6f-bd982856d53e"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Verticals/Broward/Presentation/Headless Variants/Article List/Simplified
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e87c3f1-197b-4234-8696-e4a83e5c8a1f"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1631e56a-7f40-48a0-a270-f9492a65fe58"

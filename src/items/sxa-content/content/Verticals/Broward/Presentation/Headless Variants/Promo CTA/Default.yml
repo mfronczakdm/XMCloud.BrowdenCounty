@@ -1,0 +1,20 @@
+﻿---
+ID: "e7a3aad1-e6a1-476a-a5f8-37c80b362e4a"
+Parent: "0da36ab1-dfe1-41de-8226-dd70837dc800"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Verticals/Broward/Presentation/Headless Variants/Promo CTA/Default
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d755a90d-352a-46d2-b407-3e2b7f9ca082"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb8dea5e-cfa5-4e92-aa31-3091e67c7b15"

@@ -1,0 +1,24 @@
+﻿---
+ID: "9beabbd0-8f0b-4e30-8444-c0f9fe7ee841"
+Parent: "8b919f8f-a98f-44e9-b56a-29badb83561b"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/content/Verticals/Broward/Presentation/Placeholder Settings/Partial Design/Article Content
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-article-content"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2b16dfa1-1fea-4f34-8fd6-7bb2ed536af1"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01391ed3-9555-45f5-a56f-93a4047cd789"

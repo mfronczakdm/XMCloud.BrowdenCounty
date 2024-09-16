@@ -1,0 +1,17 @@
+﻿---
+ID: "be0a1715-63c4-4ff1-8157-b10153a1e033"
+Parent: "68e286d7-0468-44b6-bae5-11c6e59a2a2e"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/Broward/Home page/Carousels/Retirement planning
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1e360164-b6ba-493e-bbdf-8df9a58ed065"

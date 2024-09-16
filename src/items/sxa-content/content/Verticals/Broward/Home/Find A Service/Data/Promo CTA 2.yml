@@ -1,0 +1,43 @@
+﻿---
+ID: "e1c2a98b-8600-418c-a719-cfe877948d2c"
+Parent: "77e02e0b-d07b-4c4c-b742-b8fd55da80d4"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: /sitecore/content/Verticals/Broward/Home/Find A Service/Data/Promo CTA 2
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 275
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="88F8F676-150D-45C0-A7F0-3573894100D1" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Personalized banking solutions for modern needs
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e3e247e-cc26-4702-b168-54a7d422efb7"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: "<p>No more cookie-cutter banking experiences – we offer tailored services designed to fit your unique needs.</p>"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Solutions bancaires personnalisées pour les besoins modernes
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dfc359b6-a106-430f-a9ba-5b4b112410cc"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>Fini les expériences bancaires standardisées – nous offrons des services sur mesure conçus pour répondre à vos besoins uniques.</p>

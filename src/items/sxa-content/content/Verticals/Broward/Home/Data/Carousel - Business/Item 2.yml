@@ -1,0 +1,48 @@
+﻿---
+ID: "f709067b-1270-43d6-9b24-729ba501d780"
+Parent: "94017a05-01b5-4c72-9189-ede17a384105"
+Template: "54db209d-cd0f-49d9-ae4e-ecb65d72cc4d"
+Path: "/sitecore/content/Verticals/Broward/Home/Data/Carousel - Business/Item 2"
+SharedFields:
+- ID: "ba78a3c0-7c60-40ba-8d42-6bf559d9ca72"
+  Hint: Image
+  Value: |
+    <image mediaid="{08DF4290-3307-41CB-8202-7A2FF5BC6FE5}" alt="Woman smiling in doorframe" height="" width="" hspace="" vspace="" />
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{321B71A6-169C-4A12-905A-0BF5F5CCD7E3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Connecting you to worldwide opportunities
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" id="{B6A4EA09-128E-42BB-91DF-B90845315962}" querystring="" anchor="" target="" title="" linktype="internal" text="Get started online" url="/Verticals/Broward/Home/Records and Taxes/international-banking" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3fd6c497-915e-4c74-9e3b-4ed59da1aa66"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Unlock the power of global finance with our suite of international banking services.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Vous connecter à des opportunités mondiales
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" id="{B6A4EA09-128E-42BB-91DF-B90845315962}" querystring="" anchor="" target="" title="" linktype="internal" text="Commencez en ligne" url="/Verticals/Broward/Home/Records and Taxes/international-banking" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9104f36a-0d20-4755-9090-b5fd6c1d59df"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Débloquez le potentiel de la finance mondiale avec notre gamme de services bancaires internationaux.</p>

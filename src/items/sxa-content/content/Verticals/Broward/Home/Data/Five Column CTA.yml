@@ -1,0 +1,117 @@
+﻿---
+ID: "57641053-353e-44ce-87d9-5fb082dca578"
+Parent: "02ae2e24-a46f-43b8-8cdf-2fd308ea5b3f"
+Template: "3b41d9fc-0edf-48e1-966c-e260339ba815"
+Path: /sitecore/content/Verticals/Broward/Home/Data/Five Column CTA
+SharedFields:
+- ID: "3b0a6484-9ce0-4386-b2b3-5792c0db7b72"
+  Hint: Image3
+  Value: |
+    <image mediaid="{14FD8839-48C7-427F-A55C-61AE8C5DEE56}" alt="Investing options image" height="" width="" hspace="" vspace="" />
+- ID: "4301130a-505e-4a6d-ba47-f783d47a1750"
+  Hint: Image2
+  Value: |
+    <image mediaid="{1A5CEF79-6DB9-48E7-8363-90CE504876B2}" alt="Mortgage image" height="" width="" hspace="" vspace="" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1200
+- ID: "c5d0b517-0ed6-4cd4-9354-8adf7a04bc7d"
+  Hint: Image4
+  Value: |
+    <image mediaid="{EF789C7E-EED9-443E-9DBD-2390ED9EF859}" alt="Small businesses image" height="" width="" hspace="" vspace="" />
+- ID: "df3b6320-8a59-49d6-98a6-917ba4a400cf"
+  Hint: Image5
+  Value: |
+    <image mediaid="{3929B70D-AA80-426E-ABBF-C118A42844D2}" alt="Credit card image" height="" width="" hspace="" vspace="" />
+- ID: "f762ad0b-e486-48ca-acb3-d8523551a990"
+  Hint: Image1
+  Value: |
+    <image mediaid="{65769427-83B7-47C7-93BE-1E42AB74CFAC}" alt="Personal loan image" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "12ece9de-445a-42be-a483-9e8095ca3b8f"
+      Hint: Text5
+      Value: Legal Notices
+    - ID: "1d581533-1aa5-4679-9e2a-e7fe765218ba"
+      Hint: Link3
+      Value: |
+        <link class="" id="{EC37F75A-597B-4F83-B44B-909165A383E8}" querystring="" anchor="" target="" title="" linktype="internal" text="" url="/Verticals/Broward/Home/Find A Service/investing" />
+    - ID: "2490d428-27e2-4daa-8337-4e34f37fc26b"
+      Hint: Link2
+      Value: |
+        <link class="" id="{2FF1049E-C902-44C9-8B36-7E08DF4A3C25}" querystring="" anchor="" target="" title="" linktype="internal" text="" url="/Verticals/Broward/Home/Find A Service/borrowing/line-of-credit" />
+    - ID: "41910271-6970-45e7-8819-3d531826d4a6"
+      Hint: Link5
+      Value: |
+        <link class="" id="{0CD2124D-9ADA-4D18-B02E-D9F24AD39824}" querystring="" anchor="" target="" title="" linktype="internal" text="" url="/Verticals/Broward/Home/Find A Service/borrowing/credit-cards" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0bb91b1a-d300-4b0c-bfa6-020de43101d0"
+    - ID: "8f49a654-7b7f-4c0b-b6df-d3ce2389c1bf"
+      Hint: Text2
+      Value: Careers
+    - ID: "91d94aff-4137-4702-93f7-8db4eacde4d5"
+      Hint: Text3
+      Value: Libraries
+    - ID: "9ea34c36-7e22-4d12-b632-032361c3b17c"
+      Hint: Text1
+      Value: Find A Service
+    - ID: "b867909f-d20c-4c76-b82f-778d25239cd1"
+      Hint: Link1
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{68821D06-7B84-4597-9EBC-C41D39856C5A}" />
+    - ID: "b8b8fa51-0c41-442e-8757-07b7a59d6d3f"
+      Hint: Link4
+      Value: |
+        <link class="" id="{646BAD18-0DC5-4442-81BC-6EE283F8727D}" querystring="" anchor="" target="" title="" linktype="internal" text="" url="/Verticals/Broward/Home/Records and Taxes" />
+    - ID: "f5e90981-3210-4316-bcf5-f083fe639e66"
+      Hint: Text4
+      Value: Airport
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "12ece9de-445a-42be-a483-9e8095ca3b8f"
+      Hint: Text5
+      Value: Cartes de crédit
+    - ID: "1d581533-1aa5-4679-9e2a-e7fe765218ba"
+      Hint: Link3
+      Value: |
+        <link class="" id="{EC37F75A-597B-4F83-B44B-909165A383E8}" querystring="" anchor="" target="" title="" linktype="internal" text="" url="/Verticals/Broward/Home/Find A Service/investing" />
+    - ID: "2490d428-27e2-4daa-8337-4e34f37fc26b"
+      Hint: Link2
+      Value: |
+        <link class="" id="{2FF1049E-C902-44C9-8B36-7E08DF4A3C25}" querystring="" anchor="" target="" title="" linktype="internal" text="" url="/Verticals/Broward/Home/Find A Service/borrowing/line-of-credit" />
+    - ID: "41910271-6970-45e7-8819-3d531826d4a6"
+      Hint: Link5
+      Value: |
+        <link class="" id="{0CD2124D-9ADA-4D18-B02E-D9F24AD39824}" querystring="" anchor="" target="" title="" linktype="internal" text="" url="/Verticals/Broward/Home/Find A Service/borrowing/credit-cards" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "388a3751-90a5-4028-be43-c19443c125cd"
+    - ID: "8f49a654-7b7f-4c0b-b6df-d3ce2389c1bf"
+      Hint: Text2
+      Value: Ligne de crédit
+    - ID: "91d94aff-4137-4702-93f7-8db4eacde4d5"
+      Hint: Text3
+      Value: Options de placement
+    - ID: "9ea34c36-7e22-4d12-b632-032361c3b17c"
+      Hint: Text1
+      Value: Prêt personnel
+    - ID: "b867909f-d20c-4c76-b82f-778d25239cd1"
+      Hint: Link1
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{68821D06-7B84-4597-9EBC-C41D39856C5A}" />
+    - ID: "b8b8fa51-0c41-442e-8757-07b7a59d6d3f"
+      Hint: Link4
+      Value: |
+        <link class="" id="{646BAD18-0DC5-4442-81BC-6EE283F8727D}" querystring="" anchor="" target="" title="" linktype="internal" text="" url="/Verticals/Broward/Home/Records and Taxes" />
+    - ID: "f5e90981-3210-4316-bcf5-f083fe639e66"
+      Hint: Text4
+      Value: Petites entreprises

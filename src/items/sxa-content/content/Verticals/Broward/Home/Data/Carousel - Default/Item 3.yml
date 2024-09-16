@@ -1,0 +1,45 @@
+﻿---
+ID: "3242e305-8b1f-4b9b-aea3-9fa998c9b3f6"
+Parent: "14ceea7a-795e-4ab4-9791-760806533f3f"
+Template: "54db209d-cd0f-49d9-ae4e-ecb65d72cc4d"
+Path: "/sitecore/content/Verticals/Broward/Home/Data/Carousel - Default/Item 3"
+SharedFields:
+- ID: "ba78a3c0-7c60-40ba-8d42-6bf559d9ca72"
+  Hint: Image
+  Value: |
+    <image mediaid="{3436E6A0-A4F7-41B1-9FAB-AF0234AB28C1}" alt="Woman looking at credit card and mobile phone" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Smart borrowing for a sound future
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" id="{E4543DEE-8C37-4F0D-B2CD-7AAAE3E5A2E9}" querystring="" anchor="" target="" title="" linktype="internal" text="Apply now" url="/Verticals/Broward/Home/Find A Service/borrowing" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ca3d0ed-409f-4a6a-b28e-2f04adf41748"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Make every borrowing decision count by prioritizing responsible practices and securing your financial future.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Emprunter intelligemment pour un avenir solide
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" id="{E4543DEE-8C37-4F0D-B2CD-7AAAE3E5A2E9}" querystring="" anchor="" target="" title="" linktype="internal" text="Faites votre demande" url="/Verticals/Broward/Home/Find A Service/borrowing" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "09e58b72-9870-4e71-b4be-9fdacfca7f1b"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Faites en sorte que chaque décision d'emprunt compte en privilégiant des pratiques responsables et en sécurisant votre avenir financier.</p>
