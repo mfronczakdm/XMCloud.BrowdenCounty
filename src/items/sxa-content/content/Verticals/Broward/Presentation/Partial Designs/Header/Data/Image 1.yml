@@ -13,7 +13,8 @@ Languages:
       Value: <r />
     - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
       Hint: Image
-      Value: 
+      Value: |
+        <image mediaid="c15a99a2-74dc-4015-8fbe-6f68def26a92" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c88d4f7d-f2ae-4ae1-9515-fae5b05e9174"
+      Value: "8da5d6c3-a815-44d6-aa10-88420a30be57"

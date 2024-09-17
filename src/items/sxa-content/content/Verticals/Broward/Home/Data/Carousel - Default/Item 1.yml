@@ -11,7 +11,7 @@ SharedFields:
 - ID: "ba78a3c0-7c60-40ba-8d42-6bf559d9ca72"
   Hint: Image
   Value: |
-    <image mediaid="{BE277F17-B225-4B19-8778-48FE607BE385}" alt="Default video thumbnail" height="" width="" hspace="" vspace="" />
+    <image src="https://mrf-generic-vert.sitecoresandbox.cloud/api/public/content/a1c3440292da42ab859d3f9b003fca50?v=ffc2fd97" dam-id="Fga35wGTQWSLvCLeTN5YPA" width="1200" height="658" alt="HAM.jpg" dam-content-type="Image" thumbnailsrc="https://mrf-generic-vert.sitecoresandbox.cloud/api/gateway/38650/thumbnail" />
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{321B71A6-169C-4A12-905A-0BF5F5CCD7E3}"
@@ -22,17 +22,17 @@ Languages:
     Fields:
     - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
       Hint: Title
-      Value: "There is only one perfect future - yours"
+      Value: September is Hunger Action Month
     - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
       Hint: Link
       Value: |
         <link class="" id="{972B9C02-03F5-4FB7-9FF1-15190D049453}" querystring="" anchor="" target="" title="" linktype="internal" text="Explore everyday banking" url="/Verticals/Broward/Home/Find A Service" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c9b15925-1694-49b6-b44c-9f667d13b042"
+      Value: "ad97b576-072d-4790-97c5-0c0a97859195"
     - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
       Hint: Text
-      Value: <p>Get started online and access our suite of personalized financial services.</p>
+      Value: <p>Food donation boxes can be found throughout the county.</p>
 - Language: "fr-CA"
   Versions:
   - Version: 1

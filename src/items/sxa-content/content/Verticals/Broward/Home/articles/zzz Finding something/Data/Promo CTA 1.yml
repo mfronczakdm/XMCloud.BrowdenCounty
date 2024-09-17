@@ -1,0 +1,13 @@
+﻿---
+ID: "dfb280b0-a7c0-462f-b028-188da173f031"
+Parent: "81aa1700-d751-473d-9634-1a8140e594ac"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: /sitecore/content/Verticals/Broward/Home/articles/zzz Finding something/Data/Promo CTA 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97d70176-2f95-41d7-b03a-ff7082d15fee"

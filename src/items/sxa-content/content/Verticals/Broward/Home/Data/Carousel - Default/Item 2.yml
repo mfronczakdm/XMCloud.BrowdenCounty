@@ -7,7 +7,7 @@ SharedFields:
 - ID: "ba78a3c0-7c60-40ba-8d42-6bf559d9ca72"
   Hint: Image
   Value: |
-    <image mediaid="{311E4AD1-7C16-475B-9BDA-68406372D227}" alt="Woman sitting on a rock outcrop and looking at the landscape" height="" width="" hspace="" vspace="" />
+    <image src="https://mrf-generic-vert.sitecoresandbox.cloud/api/public/content/8f6e8553fc7f46cb8ea975b7cc72016f?v=ac51dfa6" dam-id="OYgA6BToRVmef-H3oY5ZJA" width="1280" height="384" alt="1690460756261.png" dam-content-type="Image" thumbnailsrc="https://mrf-generic-vert.sitecoresandbox.cloud/api/gateway/38664/thumbnail" />
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{321B71A6-169C-4A12-905A-0BF5F5CCD7E3}"
@@ -18,17 +18,17 @@ Languages:
     Fields:
     - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
       Hint: Title
-      Value: Grow your wealth with confidence
+      Value: Become a Carbon Conscious Business
     - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
       Hint: Link
       Value: |
         <link class="" id="{EC37F75A-597B-4F83-B44B-909165A383E8}" querystring="" anchor="" target="" title="" linktype="internal" text="Get started online" url="/Verticals/Broward/Home/Find A Service/investing" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "85eb1def-4fc2-4671-b58e-d9d1783c0704"
+      Value: "7de1287d-76bc-48e8-9f1e-2bcfd84fb323"
     - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
       Hint: Text
-      Value: <p>Wealth management made simple.</p>
+      Value: <p>Reduce your carbon footprint</p>
 - Language: "fr-CA"
   Versions:
   - Version: 1

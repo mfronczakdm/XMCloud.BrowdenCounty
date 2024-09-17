@@ -26,10 +26,17 @@ SharedFields:
     {AC1A27CA-6BF3-4D23-915E-668326D52CF1}
 - ID: "2b2fe9fd-78a6-40eb-b9f9-28409d8d3700"
   Hint: SitemapMediaItems
-  Value: "{0B10CD82-65F6-4787-8BB0-57C5E69DA17E}"
+  Value: "{AC692D81-7C4E-4CD1-A655-7DC8A1EBB089}"
 - ID: "33d9005e-1f71-415f-b107-53b965c3b037"
   Hint: SiteMediaLibrary
   Value: "{E92516AD-D063-433C-A186-530930BE5852}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 1
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{6654F9BF-9F59-4346-A9E4-5E1B1BB0BBE1}" />
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{A0EECF65-09AD-4A10-AE46-7DF70106CFE6}"
@@ -40,7 +47,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7e682c35-69d3-4411-b109-82a48d6ac67c"
+      Value: "0bb355b3-b0f5-422c-8dfd-56987ebdc070"
 - Language: "fr-CA"
   Versions:
   - Version: 1

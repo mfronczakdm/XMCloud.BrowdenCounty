@@ -27,7 +27,7 @@ SharedFields:
   Value: "browardcounty-8mn5dmkhpumhgnpfngxnjw-financial.vercel.app"
 - ID: "9eaf6dc9-b811-4cda-9edd-9697faba628a"
   Hint: POS
-  Value: 
+  Value: en=broward
 - ID: "cb4e9e2e-2b66-43dc-ad3f-9caf363d28d3"
   Hint: SiteName
   Value: Broward
@@ -47,7 +47,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d2b37896-c1fe-4336-8511-d5f8a0697a50"
+      Value: "2300f9f5-548b-4217-b71e-9def08265c8d"
     - ID: "96cffc48-0bd5-4f70-9b36-d49c844d51ef"
       Hint: Theme
       Value: Financial
