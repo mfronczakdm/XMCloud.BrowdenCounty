@@ -46,6 +46,11 @@
                 "scope": "descendantsOnly"
             },
             {
+                "name": "webhooks",
+                "path": "/sitecore/system/Webhooks",
+                "scope": "descendantsOnly"
+            },
+            {
                 "name": "enable-language-fallback-default",
                 "path": "/sitecore/templates/System/Templates/Sections/Advanced/Advanced/__Enable item fallback"
             },
