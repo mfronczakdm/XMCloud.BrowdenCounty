@@ -1,0 +1,30 @@
+﻿---
+ID: "5144d968-0996-4bd9-bc83-a6a52ca366e0"
+Parent: "81dde0b0-9b5b-43f5-ab33-ca5ff90f6e02"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/Verticals/Broward/SVG/briefcase-solid"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/5144D96809964BD9BC83A6A52CA366E0.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "4d5cf2d3-39ac-4c7b-a264-a543afd72b34"
+  Value: PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48IS0tIUZvbnQgQXdlc29tZSBGcmVlIDYuNi4wIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlL2ZyZWUgQ29weXJpZ2h0IDIwMjQgRm9udGljb25zLCBJbmMuLS0+PHBhdGggZmlsbD0iIzc0QzBGQyIgZD0iTTE4NCA0OGwxNDQgMGM0LjQgMCA4IDMuNiA4IDhsMCA0MEwxNzYgOTZsMC00MGMwLTQuNCAzLjYtOCA4LTh6bS01NiA4bDAgNDBMNjQgOTZDMjguNyA5NiAwIDEyNC43IDAgMTYwbDAgOTYgMTkyIDAgMTI4IDAgMTkyIDAgMC05NmMwLTM1LjMtMjguNy02NC02NC02NGwtNjQgMCAwLTQwYzAtMzAuOS0yNS4xLTU2LTU2LTU2TDE4NCAwYy0zMC45IDAtNTYgMjUuMS01NiA1NnpNNTEyIDI4OGwtMTkyIDAgMCAzMmMwIDE3LjctMTQuMyAzMi0zMiAzMmwtNjQgMGMtMTcuNyAwLTMyLTE0LjMtMzItMzJsMC0zMkwwIDI4OCAwIDQxNmMwIDM1LjMgMjguNyA2NCA2NCA2NGwzODQgMGMzNS4zIDAgNjQtMjguNyA2NC02NGwwLTEyOHoiLz48L3N2Zz4=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 599
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e5e5bb12-177d-48ac-a7db-4917d5019e7d"

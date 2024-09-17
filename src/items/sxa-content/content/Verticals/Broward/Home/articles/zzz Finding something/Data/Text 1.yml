@@ -1,0 +1,19 @@
+﻿---
+ID: "5a2fb386-b098-40b0-9bd5-eca5b93aa976"
+Parent: "81aa1700-d751-473d-9634-1a8140e594ac"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/Verticals/Broward/Home/articles/zzz Finding something/Data/Text 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "86961eb5-be18-4826-8db6-960e93a3cbbf"

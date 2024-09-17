@@ -1,0 +1,13 @@
+﻿---
+ID: "c80b0e91-cce0-4fe9-b734-c0d28ed7367f"
+Parent: "c16818f0-2207-4e3c-9837-3719f949e85d"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/Verticals/Broward/Data/Promos/Three Column CTA
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b1240dd5-cf03-4d99-b505-90f92b8ce394"

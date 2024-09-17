@@ -1,0 +1,13 @@
+﻿---
+ID: "c0b5aa84-0452-4214-b432-0135fc53c54a"
+Parent: "2b53425e-620d-4a4c-a77e-4e3d15d74fc8"
+Template: "28b7f396-dc4a-4116-8c93-3b7909cbeb0e"
+Path: "/sitecore/content/Verticals/Broward/Home/articles/five-tips-for-new-retirees/Data/Parallax Banner 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dbaab333-ba83-4b04-8907-5925be26ff9d"

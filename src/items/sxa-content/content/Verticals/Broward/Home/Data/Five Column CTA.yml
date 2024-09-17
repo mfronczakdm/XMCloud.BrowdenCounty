@@ -7,26 +7,26 @@ SharedFields:
 - ID: "3b0a6484-9ce0-4386-b2b3-5792c0db7b72"
   Hint: Image3
   Value: |
-    <image mediaid="{14FD8839-48C7-427F-A55C-61AE8C5DEE56}" alt="Investing options image" height="" width="" hspace="" vspace="" />
+    <image mediaid="3dc731b4-4ae5-4e33-85db-239b3c3e4dfb" />
 - ID: "4301130a-505e-4a6d-ba47-f783d47a1750"
   Hint: Image2
   Value: |
-    <image mediaid="{1A5CEF79-6DB9-48E7-8363-90CE504876B2}" alt="Mortgage image" height="" width="" hspace="" vspace="" />
+    <image mediaid="98a3292d-3817-453e-840f-1781fd4e3689" />
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 1200
 - ID: "c5d0b517-0ed6-4cd4-9354-8adf7a04bc7d"
   Hint: Image4
   Value: |
-    <image mediaid="{EF789C7E-EED9-443E-9DBD-2390ED9EF859}" alt="Small businesses image" height="" width="" hspace="" vspace="" />
+    <image mediaid="05fd9932-ad0f-4bfd-b1da-ad8ac44e6728" />
 - ID: "df3b6320-8a59-49d6-98a6-917ba4a400cf"
   Hint: Image5
   Value: |
-    <image mediaid="{3929B70D-AA80-426E-ABBF-C118A42844D2}" alt="Credit card image" height="" width="" hspace="" vspace="" />
+    <image mediaid="3e05eba3-83ad-4f08-ae46-08ce989bc1e1" />
 - ID: "f762ad0b-e486-48ca-acb3-d8523551a990"
   Hint: Image1
   Value: |
-    <image mediaid="{65769427-83B7-47C7-93BE-1E42AB74CFAC}" alt="Personal loan image" height="" width="" hspace="" vspace="" />
+    <image mediaid="4640371a-78ba-4611-8ef7-c4492b15b114" />
 Languages:
 - Language: en
   Versions:
@@ -52,7 +52,7 @@ Languages:
         <link class="" id="{0CD2124D-9ADA-4D18-B02E-D9F24AD39824}" querystring="" anchor="" target="" title="" linktype="internal" text="" url="/Verticals/Broward/Home/Find A Service/borrowing/credit-cards" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0bb91b1a-d300-4b0c-bfa6-020de43101d0"
+      Value: "cfae22f4-d2f0-4915-9da5-6089e539f54f"
     - ID: "8f49a654-7b7f-4c0b-b6df-d3ce2389c1bf"
       Hint: Text2
       Value: Careers

@@ -1,0 +1,13 @@
+﻿---
+ID: "bb8737f1-368b-45f2-a0a8-46c1ea1623e6"
+Parent: "2b53425e-620d-4a4c-a77e-4e3d15d74fc8"
+Template: "32f00428-21ac-4dc0-aa2b-f2e31ca3e97e"
+Path: "/sitecore/content/Verticals/Broward/Home/articles/five-tips-for-new-retirees/Data/Comparison 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "691d5601-2319-4c43-bf96-18bcae6edcb0"

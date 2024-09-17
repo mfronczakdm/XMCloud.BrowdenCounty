@@ -1,0 +1,26 @@
+﻿---
+ID: "a66b1035-42c7-4582-b7e5-b8223f8604b1"
+Parent: "54d2b821-14f6-40aa-9378-61a993b131b9"
+Template: "90375ddd-5ad1-455c-b83a-cb764af92694"
+Path: /sitecore/content/Verticals/Broward/Data/Alerts/Peter Alert
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{C9892497-0D1B-4A3F-B47C-62AB8B5AAFD7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{72E21251-85B0-4A13-B181-FCE910B08232}"
+    - ID: "4590e020-66ef-4031-ac28-c6194ff0b436"
+      Hint: AlertHeading
+      Value: Issuing a severe weather alert
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "861784dc-6c42-46d6-84e9-351e674e16b7"

@@ -1,0 +1,13 @@
+﻿---
+ID: "81aa1700-d751-473d-9634-1a8140e594ac"
+Parent: "518e0319-551c-4fb0-87d8-d3833bb5265f"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/Broward/Home/articles/zzz Finding something/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "99306933-450d-496a-9f73-94dc5c736069"
