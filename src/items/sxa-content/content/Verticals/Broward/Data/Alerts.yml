@@ -3,7 +3,3 @@ ID: "54d2b821-14f6-40aa-9378-61a993b131b9"
 Parent: "34539694-4509-4452-9006-9d8c1c33461f"
 Template: "b272ed94-c4d7-409f-858f-d674fb75038c"
 Path: /sitecore/content/Verticals/Broward/Data/Alerts
-Languages:
-- Language: en
-  Versions:
-  - Version: 1
