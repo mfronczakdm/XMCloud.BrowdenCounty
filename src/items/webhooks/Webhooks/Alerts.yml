@@ -1,0 +1,17 @@
+﻿---
+ID: "573e82fc-5d27-4701-9159-b79b2422c8ce"
+Parent: "7d2fa73d-6ae7-47cb-8d0b-d64671768c82"
+Template: "f05212ce-30a7-4733-a7f4-ed6e13f26692"
+Path: /sitecore/system/Webhooks/Alerts
+Languages:
+- Language: en
+  Fields:
+  - ID: "305fa64b-5785-4171-aa73-de715e21ae21"
+    Hint: Description
+    Value: Alerts Manager
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "792e3c8c-4718-4c9a-b576-984138364178"
