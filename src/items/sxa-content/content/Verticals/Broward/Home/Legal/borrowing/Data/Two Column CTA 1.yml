@@ -1,0 +1,75 @@
+﻿---
+ID: "70ccf38e-d63c-4428-8c88-048bbb973ab5"
+Parent: "3c0a5d12-c0f3-4b15-9ae5-86fc41cadd27"
+Template: "1812bf3e-6bdd-466d-99b2-0d7cebb020fc"
+Path: /sitecore/content/Verticals/Broward/Home/Legal/borrowing/Data/Two Column CTA 1
+SharedFields:
+- ID: "168fed07-0f41-44f5-a14e-f134e16b1477"
+  Hint: Image1
+  Value: |
+    <image mediaid="26FE6412-14BC-4CED-9C0C-2D17DF770508" alt="Credit card on top of cash" height="" width="" hspace="" vspace="" />
+- ID: "41c85ac6-5f19-48ac-9dfb-e81d5f1450f6"
+  Hint: Image2
+  Value: |
+    <image mediaid="E70BE5FD-A301-4F19-963F-0EB3C0E055B8" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-100"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "301fab64-5268-445d-8380-6b43861bb434"
+      Hint: Link1
+      Value: |
+        <link class="" id="{0CD2124D-9ADA-4D18-B02E-D9F24AD39824}" querystring="" anchor="" target="" title="" linktype="internal" text="Sign up today" url="/Verticals/Broward/Home/Find A Service/borrowing/credit-cards" />
+    - ID: "4e43fdc3-7a40-469c-a93a-231545ee01e9"
+      Hint: Title1
+      Value: Credit cards
+    - ID: "53845417-9058-4342-90a9-50783ffd8c25"
+      Hint: Link2
+      Value: |
+        <link class="" id="{2FF1049E-C902-44C9-8B36-7E08DF4A3C25}" querystring="" anchor="" target="" title="" linktype="internal" text="Apply now" url="/Verticals/Broward/Home/Find A Service/borrowing/line-of-credit" />
+    - ID: "56a3b6a6-bd8b-4d2e-a86d-f791169ebe7b"
+      Hint: Title2
+      Value: Line of credit
+    - ID: "5eacc805-137b-41d5-a43c-67d981abf6f9"
+      Hint: Text1
+      Value: Unlock a world of possibilities today with our premium credit card offerings.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d835487d-6268-4e63-b3fa-02aefebfcf55"
+    - ID: "eeb59bf3-72d2-4e49-9a37-3902b7a236a9"
+      Hint: Text2
+      Value: Gain access to funds whenever you need them with our versatile personal line of credit.
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "301fab64-5268-445d-8380-6b43861bb434"
+      Hint: Link1
+      Value: |
+        <link class="" id="{0CD2124D-9ADA-4D18-B02E-D9F24AD39824}" querystring="" anchor="" target="" title="" linktype="internal" text="Abonnez-vous" url="/Verticals/Broward/Home/Find A Service/borrowing/credit-cards" />
+    - ID: "4e43fdc3-7a40-469c-a93a-231545ee01e9"
+      Hint: Title1
+      Value: Cartes de crédit
+    - ID: "53845417-9058-4342-90a9-50783ffd8c25"
+      Hint: Link2
+      Value: |
+        <link class="" id="{2FF1049E-C902-44C9-8B36-7E08DF4A3C25}" querystring="" anchor="" target="" title="" linktype="internal" text="Faites votre demande" url="/Verticals/Broward/Home/Find A Service/borrowing/line-of-credit" />
+    - ID: "56a3b6a6-bd8b-4d2e-a86d-f791169ebe7b"
+      Hint: Title2
+      Value: Ligne de crédit
+    - ID: "5eacc805-137b-41d5-a43c-67d981abf6f9"
+      Hint: Text1
+      Value: Débloquez un monde de possibilités dès aujourd'hui avec nos offres de cartes de crédit premium.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4ce5f78c-7944-4831-929f-cae5634181cd"
+    - ID: "eeb59bf3-72d2-4e49-9a37-3902b7a236a9"
+      Hint: Text2
+      Value: Accédez à des fonds quand vous en avez besoin avec notre ligne de crédit personnelle polyvalente.

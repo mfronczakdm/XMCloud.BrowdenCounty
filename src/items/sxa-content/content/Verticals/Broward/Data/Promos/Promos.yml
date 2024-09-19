@@ -1,0 +1,13 @@
+﻿---
+ID: "6dd77e7d-0c0e-4067-8ca8-ef40e6f675af"
+Parent: "c16818f0-2207-4e3c-9837-3719f949e85d"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/Verticals/Broward/Data/Promos/Promos
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "12a2e2c0-4fb7-48d3-8a42-f22a610d0b89"

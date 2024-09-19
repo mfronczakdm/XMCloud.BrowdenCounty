@@ -1,0 +1,24 @@
+﻿---
+ID: "f7957959-876c-4cbc-8d3e-3521b4d1d5d8"
+Parent: "2be28135-9169-45e9-a94a-5e689a2d7b01"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/Verticals/Broward/Home/Library/Library Opening/Data/Rich text
+BranchID: "f8842f7f-9bfc-4496-80ec-b4db0c4875ba"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8B42E690-8CEA-4AF0-8628-422DF26E547B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b87d638d-f963-496b-bbb7-816239a886ff"

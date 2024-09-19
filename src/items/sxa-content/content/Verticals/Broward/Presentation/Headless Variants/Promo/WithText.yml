@@ -1,0 +1,13 @@
+﻿---
+ID: "d4862028-0207-4918-9811-23df96cc226b"
+Parent: "ba07cbd1-f24f-449b-9157-f25060e333b0"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Verticals/Broward/Presentation/Headless Variants/Promo/WithText
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "591c7e97-60ce-4b53-8768-6fbf149ccf7a"

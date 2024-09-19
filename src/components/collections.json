@@ -142,19 +142,19 @@
     "components": [
       {
         "libraryId": "generated",
-        "id": "6K-B1IFY36",
+        "id": "4DvpkxtAqE",
         "collectionId": "X12SetwYtT",
-        "name": "Informed Teaser",
+        "name": "Quick Informed Tile",
         "description": "",
         "status": "changed",
-        "versionCount": 1,
-        "stagedVersionCount": 0,
+        "versionCount": 3,
+        "stagedVersionCount": 2,
         "embeddableVersionCount": 1,
         "datasourceIds": [],
-        "createdAt": "2024-09-17T09:24:14.167Z",
-        "stagedAt": null,
-        "publishedAt": null,
-        "modifiedAt": "2024-09-17T09:50:20.315Z",
+        "createdAt": "2024-09-18T14:40:01.231Z",
+        "stagedAt": "2024-09-18T18:45:31.043Z",
+        "publishedAt": "2024-09-18T18:45:31.043Z",
+        "modifiedAt": "2024-09-18T18:45:31.043Z",
         "modifiedBy": {
           "id": "62c2ce06c96a90d0cd42847e",
           "name": "Mark Fronczak",
@@ -163,7 +163,19 @@
           "givenName": "Mark",
           "familyName": "Fronczak"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "4DvpkxtAqE",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-09-18T14:40:48.405Z",
+            "modifiedAt": "2024-09-18T14:40:48.405Z"
+          }
+        ]
       }
     ]
   }

@@ -1,0 +1,17 @@
+﻿---
+ID: "0bfc6771-ab89-4868-817c-494bd2cd5f11"
+Parent: "483e86d5-8650-433d-99ac-13c466c578d6"
+Template: "483e86d5-8650-433d-99ac-13c466c578d6"
+Path: /sitecore/templates/Project/Verticals/Components/Alert/__Standard Values
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{C9892497-0D1B-4A3F-B47C-62AB8B5AAFD7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aedb92c9-33c7-4906-bb83-5f5e3b87d810"

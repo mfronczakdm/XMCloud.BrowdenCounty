@@ -1,0 +1,13 @@
+﻿---
+ID: "bc31e3db-acc1-4d72-ba75-c443dd43d32f"
+Parent: "483e86d5-8650-433d-99ac-13c466c578d6"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Verticals/Components/Alert/Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9d7ea359-8d92-4aba-b3bd-29cbadaff1c7"

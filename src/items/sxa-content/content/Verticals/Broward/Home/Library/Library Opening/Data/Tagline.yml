@@ -1,0 +1,22 @@
+﻿---
+ID: "714a6349-79a8-47a1-a4ae-8d962984f853"
+Parent: "2be28135-9169-45e9-a94a-5e689a2d7b01"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/Verticals/Broward/Home/Library/Library Opening/Data/Tagline
+BranchID: "f8842f7f-9bfc-4496-80ec-b4db0c4875ba"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{3942DE46-B9C8-4654-8455-3FDE105F955D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <h2>Take hold of your finances,<em style="color: var(--bg-accent);"> take hold of your life.</em></h2>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "142c7a71-118c-44d8-a619-a30d3195d211"

@@ -1,0 +1,20 @@
+﻿---
+ID: "84b40e1f-69c2-496b-96f3-1eaaa765b23d"
+Parent: "23c495c1-77b2-4e18-9015-ec6953d19fa8"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/Broward/Home/Legal/everyday-banking/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2144b3df-08c4-4a44-8a80-2b5469fc6126"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f548452-7d04-47a8-be73-0bea72237110"

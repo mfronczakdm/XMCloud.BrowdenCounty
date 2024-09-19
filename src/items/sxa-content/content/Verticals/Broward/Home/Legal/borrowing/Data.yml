@@ -1,0 +1,24 @@
+﻿---
+ID: "3c0a5d12-c0f3-4b15-9ae5-86fc41cadd27"
+Parent: "e4543dee-8c37-4f0d-b2cd-7aaae3e5a2e9"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/Broward/Home/Legal/borrowing/Data
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93378abc-aca7-44c0-9e3d-2a46dbec1ac5"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e51df86c-be3f-4112-afc1-8d6c79cdfd8e"

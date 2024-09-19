@@ -1,0 +1,27 @@
+﻿---
+ID: "2fd69430-64d9-43a9-ac01-95af7d114250"
+Parent: "6dd77e7d-0c0e-4067-8ca8-ef40e6f675af"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: /sitecore/content/Verticals/Broward/Data/Promos/Promos/New Concept for Iconic Rail Bridges Released
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f66862d-a5e3-405f-8e3e-b787b4c39b12"
+      Hint: PromoText2
+      Value: "The County has released conceptual designs for iconic bridges in downtown Fort Lauderdale (see attached images). The new bridges will allow trains to cross the New River while simultaneously enhancing the urban landscape and boosting economic development. The conceptual designs propose replacing the existing low-level steel structure with modern rail crossings that will serve both passenger and freight trains. Boasting a more attractive appearance, these bridges, along with an improved alignment, will help address the limitations of the previous bridge for marine traffic and rail service.&nbsp;"
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: |
+        <div class="ck-content"><p>New Concept for Iconic Rail Bridges Released</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c2834bc-bec2-49ca-b0b6-a5ffc0b9a0be"
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image src="https://mrf-generic-vert.sitecoresandbox.cloud/api/public/content/d47e619d53fd4648a23b9b7d2535e2e0?v=207e1bd7" dam-id="Q6DIXiDiRCqwN3Zc0HhtIQ" width="428" height="185" alt="bridge.jpg" dam-content-type="Image" thumbnailsrc="https://mrf-generic-vert.sitecoresandbox.cloud/api/gateway/38674/thumbnail" />
