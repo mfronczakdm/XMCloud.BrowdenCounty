@@ -152,7 +152,7 @@
         "embeddableVersionCount": 1,
         "datasourceIds": [],
         "createdAt": "2024-09-18T14:40:01.231Z",
-        "stagedAt": "2024-09-18T18:45:31.043Z",
+        "stagedAt": "2024-09-18T18:44:40.689Z",
         "publishedAt": "2024-09-18T18:45:31.043Z",
         "modifiedAt": "2024-09-18T18:45:31.043Z",
         "modifiedBy": {
@@ -163,19 +163,7 @@
           "givenName": "Mark",
           "familyName": "Fronczak"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "4DvpkxtAqE",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-09-18T14:40:48.405Z",
-            "modifiedAt": "2024-09-18T14:40:48.405Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   }

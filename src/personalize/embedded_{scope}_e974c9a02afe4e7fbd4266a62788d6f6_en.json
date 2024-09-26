@@ -1,11 +1,11 @@
 {
-  "clientKey": "84c3696ed849ab686bb60d0058523ef9",
-  "href": "https://api-us.boxever.com/v3/flowDefinitions/9e49adf9-7855-4ffd-a4db-48be9b774c38",
-  "ref": "9e49adf9-7855-4ffd-a4db-48be9b774c38",
+  "clientKey": "3509a0a2b7cc0542af1e697ea16dafe9",
+  "href": "https://api-us.boxever.com/v3/flowDefinitions/7668e056-3f6d-468a-a9a4-860d9690086c",
+  "ref": "7668e056-3f6d-468a-a9a4-860d9690086c",
   "name": "embedded_{scope}_e974c9a02afe4e7fbd4266a62788d6f6_en",
-  "modifiedByRef": "auth0|62c2ce06c96a90d0cd42847e",
-  "modifiedAt": "2024-09-18T19:26:45.739Z",
-  "revision": 3,
+  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
+  "modifiedAt": "2024-09-25T13:38:58.426Z",
+  "revision": 2,
   "archived": false,
   "friendlyId": "embedded_{scope}_e974c9a02afe4e7fbd4266a62788d6f6_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -21,7 +21,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-09-18T19:26:45.786Z",
+    "modifiedAt": "2024-09-25T13:38:58.473Z",
     "splits": [
       {
         "template": "{\"variantId\": \"49ed171a5a9d412dacef68366c80a460\"}",
@@ -47,7 +47,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "4fdf1c90-5ae0-4450-9937-147952b42fae",
+      "ref": "f2cb23fe-de86-4bc6-86e5-707c6d9df58a",
       "name": "outside the county",
       "tasks": [
         {
@@ -80,10 +80,10 @@
   "status": "PRODUCTION",
   "schedule": {
     "type": "simpleSchedule",
-    "startDate": "2024-09-18T19:25:12.58Z"
+    "startDate": "2024-09-18T19:25:12.058Z"
   },
   "revisions": {
-    "href": "https://api-us.boxever.com/v3/flowDefinitions/9e49adf9-7855-4ffd-a4db-48be9b774c38/revisions"
+    "href": "https://api-us.boxever.com/v3/flowDefinitions/7668e056-3f6d-468a-a9a4-860d9690086c/revisions"
   },
   "sampleSizeConfig": {
     "baseValue": 0.15,
